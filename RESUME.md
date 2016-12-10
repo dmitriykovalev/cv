@@ -2,16 +2,15 @@
 
 Software Engineer @ Google working at Daydream on VR camera systems.
 
+[Resume](https://guthub.com/dmitriykovalev/resume/blob/master/RESUME.md) |
+[Resume PDF](https://gitprint.com/dmitriykovalev/resume/blob/master/RESUME.md) |
 [GitHub](https://github.com/dmitriykovalev/) |
 [StackOverflow](http://stackoverflow.com/users/530414/) |
 [LinkedIn](https://www.linkedin.com/in/dkovalev)
 
-[This Resume](https://guthub.com/dmitriykovalev/resume/blob/master/RESUME.md) |
-[This Resume in PDF](https://gitprint.com/dmitriykovalev/resume/blob/master/RESUME.md)
-
 ## Summary
 
-Areas of interest: video systems, camera systems, embedded systems (hardware + software), robotics, drones, satellites, internet of things, data compression, software defined radio, signal processing, photography.
+Areas of interest: video systems, camera systems, embedded systems (hardware + software), robotics, drones, satellites, internet of things, data compression, software defined radio, signal processing, [photography](https://500px.com/dmitriykovalev).
 
 Areas of expertise: 
 
@@ -29,7 +28,7 @@ November 2012 — Present (> 4 years) | Mountain View, California ☀
 
 * VR Camera Systems @ [Daydream](https://vr.google.com/daydream/)
 * **[Google Cardboard.](https://vr.google.com/cardboard/)** Experience virtual reality in a simple, fun, and inexpensive way.
-* **Chrome Rover.** Remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The demo was showed at Google I/O 2014 at Cardboard booth, [video](https://vimeo.com/99213039).
+* **Chrome Rover.** Remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The demo was showed at Google I/O 2014 at Cardboard booth, [demo](https://vimeo.com/99213039).
 * **[VP9 Video Codec.](https://en.wikipedia.org/wiki/VP9)** Open source project, list of my [commits](https://chromium-review.googlesource.com/#/q/owner:dkovalev%2540google.com+status:merged,n,z).
 * **Google Chrome.**
 
@@ -71,7 +70,7 @@ July 2004 — August 2004 (2 months) | Novosibirsk, Russia ❄
 ### Software Engineer @ Novosoft [➔](http://www.novosoft.net/)
 March 2004 — June 2004 (4 months) | Novosibirsk, Russia ❄
 
-* **[HandyPassword](http://www.handypassword.com/).** Password manager plug-in for Internet Explorer. C++ language and WTL for the UI.
+* **[HandyPassword](http://www.handypassword.com/).** Password manager plug-in for Internet Explorer.
 
 ## Publications
 
@@ -81,12 +80,12 @@ Novosibirsk State University Journal of Information Technologies [➔](http://ji
 
 IT Security for the Next Generation — International Round 2010 | Krakow, Poland
 
-* D. Kovalev, S. Krendelev “Dictionary-based spam detection methods”
+* D. Kovalev, S. Krendelev “Dictionary-based spam detection methods” [➔](http://www.ict.edu.ru/ft/006246/student_conference_thesis_2010.pdf)
 
 The XII International Symposium “Problems of redundancy in information and control systems”, 2009 | Saint-Petersburg, Russia
 
-* D. Kovalev, S. Krendelev “Huffman coding and its generalizations”
-* D. Kovalev, S. Krendelev “Generalized arithmetic coding on simplexes”
+* D. Kovalev, S. Krendelev “Huffman coding and its generalizations” [➔](http://iitp.ru/upload/publications/2837/XIIproceedings.pdf)
+* D. Kovalev, S. Krendelev “Generalized arithmetic coding on simplexes” [➔](http://iitp.ru/upload/publications/2837/XIIproceedings.pdf)
 
 International Scientific Students Conference | Novosibirsk, Russia [➔](https://issc.nsu.ru/)
 
@@ -102,12 +101,12 @@ International Scientific Students Conference | Novosibirsk, Russia [➔](https:/
 * [Cryptography I](https://www.coursera.org/learn/crypto) @ Coursera, April 2012
 * [Circuits and Electronics 6.002x](https://6002x.mitx.mit.edu/) @ edX, May 2012, [certificate](https://verify.edxonline.org/cert/5cc11e4740d64312b650bdf5a124aa1b/)
 
-### Novosibirsk State University (NSU)
+### Novosibirsk State University (NSU) [➔](http://nsu.ru/?lang=en)
 Master (2005 — 2007), Computer Science
 
 Thesis: “Theory and practice of fast video codec design”.
 
-### Novosibirsk State University (NSU)
+### Novosibirsk State University (NSU) [➔](http://nsu.ru/?lang=en)
 Bachelor (2005 — 2007), Computer Science
 
 Thesis: “Fixed average compression ratio video compression”.
