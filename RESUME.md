@@ -2,11 +2,11 @@
 
 Software Engineer @ Google working at Daydream on VR camera systems.
 
-[Resume](https://guthub.com/dmitriykovalev/resume/blob/master/RESUME.md) |
-[Resume PDF](https://gitprint.com/dmitriykovalev/resume/blob/master/RESUME.md) |
 [GitHub](https://github.com/dmitriykovalev/) |
 [StackOverflow](http://stackoverflow.com/users/530414/) |
-[LinkedIn](https://www.linkedin.com/in/dkovalev)
+[LinkedIn](https://www.linkedin.com/in/dkovalev) |
+[Resume](https://guthub.com/dmitriykovalev/resume/blob/master/RESUME.md) |
+[Resume PDF](https://gitprint.com/dmitriykovalev/resume/blob/master/RESUME.md)
 
 ## Summary
 
@@ -26,11 +26,12 @@ Programming languages: C, C++, Java, Python, JavaScript, etc.
 ### Software Engineer @ Google [➔](http://www.google.com/)
 November 2012 — Present (> 4 years) | Mountain View, California ☀
 
-* VR Camera Systems @ [Daydream](https://vr.google.com/daydream/)
+* **VR Camera Systems** @ [Daydream](https://vr.google.com/daydream/)
 * **[Google Cardboard.](https://vr.google.com/cardboard/)** Experience virtual reality in a simple, fun, and inexpensive way.
-* **Chrome Rover.** Remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The demo was showed at Google I/O 2014 at Cardboard booth, [demo](https://vimeo.com/99213039).
-* **[VP9 Video Codec.](https://en.wikipedia.org/wiki/VP9)** Open source project, list of my [commits](https://chromium-review.googlesource.com/#/q/owner:dkovalev%2540google.com+status:merged,n,z).
-* **Google Chrome.**
+* **[WebM & VP9 Video Codec.](https://en.wikipedia.org/wiki/VP9)** Open source project, list of my [commits](https://chromium-review.googlesource.com/#/q/owner:dkovalev%2540google.com+status:merged,n,z).
+* **[WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate).** Added initial lens distortion correction code.
+* **Chrome Rover.** Designed and built remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The demo was showed at Google I/O 2014 at Cardboard booth, [demo](https://vimeo.com/99213039).
+* **[Google Chrome](https://www.google.com/chrome/) & [Chromium](https://www.chromium.org/).**
 
 ### Software Engineer @ Guidewire Inc [➔](http://www.guidewire.com/)
 October 2011 — November 2012 (1 year 2 months) | San Mateo, California ☀
@@ -51,12 +52,12 @@ Building applications on Eclipse Platform. Working with almost all Eclipse techn
 ### Instructor @ Novosibirsk State University
 September 2010 — January 2011,  (5 months) | Novosibirsk, Russia ❄
 
-Teaching “Data Compression” course for master students, http://nsu.videosoft.org/ (in Russian)
+Teaching “Data Compression” course for master students, [resources](http://nsu.videosoft.org/) (in Russian).
 
 ### Instructor @ Novosibirsk State University
 September 2009 — January 2010 (5 months) | Novosibirsk, Russia ❄
 
-Teaching “Data Compression” course for master students, http://nsu.videosoft.org/ (in Russian)
+Teaching “Data Compression” course for master students, [resources](http://nsu.videosoft.org/) (in Russian).
 
 ### Software Engineer @ SWsoft (then Parallels and now Odin) [➔](http://www.odin.com/) 
 July 2005 — October 2006 (1 year 4 months) | Novosibirsk, Russia ❄
@@ -71,6 +72,12 @@ July 2004 — August 2004 (2 months) | Novosibirsk, Russia ❄
 March 2004 — June 2004 (4 months) | Novosibirsk, Russia ❄
 
 * **[HandyPassword](http://www.handypassword.com/).** Password manager plug-in for Internet Explorer.
+
+## Tiny Projects
+
+* [Slovareg](http://slovareg.com/) — Web app to collect and learn foreign language words, [source](https://github.com/dmitriykovalev/slovareg).
+* [QLipse](https://marketplace.eclipse.org/content/qlipse) — Eclipse integration for Quick Look on Mac OS X, [source](https://github.com/dmitriykovalev/qlipse).
+* [FastCodec](http://videosoft.org/codecs/fastcodec) and [Toponoky](http://videosoft.org/codecs/toponoky) lossless video codecs.
 
 ## Publications
 
