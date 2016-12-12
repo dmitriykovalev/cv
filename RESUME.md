@@ -5,7 +5,7 @@ Software Engineer @ Google working at Daydream on VR camera systems.
 [GitHub](https://github.com/dmitriykovalev/) |
 [StackOverflow](http://stackoverflow.com/users/530414/) |
 [LinkedIn](https://www.linkedin.com/in/dkovalev) |
-[Resume](https://guthub.com/dmitriykovalev/resume/blob/master/RESUME.md) |
+[Resume](https://github.com/dmitriykovalev/resume/blob/master/RESUME.md) |
 [Resume PDF](https://gitprint.com/dmitriykovalev/resume/blob/master/RESUME.md)
 
 ## Summary
