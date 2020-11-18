@@ -24,7 +24,7 @@ Programming languages: C, C++, Python, JavaScript, Java
 ### Software/Firmware Engineer @ [Google](google.com)
 *November 2012 — Present | San Francisco, CA ☀*
 
-#### Coral
+#### :hammer_and_pick: Coral
 Low-power TPU (Tensor Processing Unit) chips for embedded systems. I closely worked on:
 
   * [Dev Board](https://coral.ai/products/dev-board) — SBC (Single Board Computer) with the TPU chip
@@ -32,7 +32,7 @@ Low-power TPU (Tensor Processing Unit) chips for embedded systems. I closely wor
   
 Source code: https://github.com/google-coral.
 
-#### AIY
+#### :hammer_and_pick: AIY
 Do-it-yourself Artificial Intelligence. I closely worked on:
 
   * [Vision Kit](https://aiyprojects.withgoogle.com/vision) — AI accelerator for Raspberry Pi based on Movidius Myriad 2 chip.
@@ -40,23 +40,23 @@ Do-it-yourself Artificial Intelligence. I closely worked on:
 
 Source code: https://github.com/google/aiyprojects-raspbian.
 
-#### Google Clips
+#### :hammer_and_pick: Google Clips
 [Google Clips](https://en.wikipedia.org/wiki/Google_Clips) is an intellegent wearable camera based on Movidius Myriad 2 chip. Firmware development. Manufacturing: EVT, PVT, DVT (factory testing, quality control, calibration).
 
-#### Daydream
+#### :hammer_and_pick: Daydream
 At [Daydream](https://arvr.google.com/daydream/) I worked on several projects:
   * Multi-sensor camera systems for Virtual Reality.
   * [Google Cardboard](https://vr.google.com/cardboard/).
   * [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate). I added initial lens distortion correction code.
   * Chrome Rover. I designed and built remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The [demo](https://vimeo.com/99213039) was demonstrated at Google I/O 2014 at Cardboard booth.
 
-#### VP9
+#### :hammer_and_pick: VP9
 [VP9](https://en.wikipedia.org/wiki/VP9) is an open source widely used video codec. List of my [commits](https://chromium-review.googlesource.com/#/q/owner:dkovalev%2540google.com+status:merged,n,z) and some [statistics](https://github.com/webmproject/libvpx/graphs/contributors) from GitHub mirror.
 
 ### Software Engineer @ [Guidewire Inc](http://www.guidewire.com/)
 *October 2011 — November 2012 (1 year 2 months) | San Mateo, CA ☀*
 
-#### Studio
+#### :hammer_and_pick: Studio
 IntelliJ IDEA-based IDE for [Gosu](https://gosu-lang.github.io/) programming language.
 
 ### Software Engineer @ [Xored Software](http://xored.com/)
@@ -64,19 +64,19 @@ IntelliJ IDEA-based IDE for [Gosu](https://gosu-lang.github.io/) programming lan
 
 Building applications on Eclipse Platform. Working with almost all Eclipse technologies (RCP, EMF, GEF, DLTK, SWT, JFace, Xtext, etc). Official committer in DLTK (Dynamic Languages Toolkit) project. Eclipse Summit presenter in [2007](https://www.eclipsecon.org/summiteurope2007/indexf316.html?page=presenters/), EclipseCon presenter in [2008](https://www.eclipsecon.org/2008/indexeb69.html?page=sub/&id=270).
 
-#### iTest
+#### :hammer_and_pick: iTest
 [iTest](https://www.spirent.com/Products/iTest) is an integrated test environment offering a unified approach for developing, automating, and maintaining test cases. I was managing a team of 4 engineers which participated in iTest development.  
 
-#### DLTK
+#### :hammer_and_pick: DLTK
 [DLTK (Dynamic Langauges Toolkit)](https://eclipse.org/dltk/). Eclipse Foundation project to create custom development environments for dynamic languages like Python, Tcl, or Ruby.
 
-#### Q7
+#### :hammer_and_pick: Q7
 [Q7](http://q7.xored.com/) — functional and UI testing for Eclipse-based applications.
 
-#### ACE 
+#### :hammer_and_pick: ACE 
 ACE (Application Composition Environment) project for Starview Technology (now Starview, Inc). Eclipse-based IDE for building, testing, and debugging event-driven applications.
 
-#### Vozone
+#### :hammer_and_pick: Vozone
 Project for [British Telecom](https://www.bt.com/).
 
 ### Instructor @ [Novosibirsk State University](https://english.nsu.ru/)
@@ -101,7 +101,7 @@ Teaching [Data Compression](http://nsu.videosoft.org/) course for master student
 ### Software Engineering Intern @ [Novosoft](http://www.novosoft.net/)
 *March 2004 — June 2004 (4 months) | Novosibirsk, Russia ❄*
 
-#### HandyPassword
+#### :hammer_and_pick: HandyPassword
 [HandyPassword](http://www.handypassword.com/) is a password manager plug-in for Internet Explorer.
 
 ## Tiny Projects
