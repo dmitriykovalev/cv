@@ -5,11 +5,10 @@ Software/Firmware Engineer @ Google | San Francisco, CA ☀
 [GitHub](https://github.com/dmitriykovalev/) |
 [StackOverflow](http://stackoverflow.com/users/530414/) |
 [LinkedIn](https://www.linkedin.com/in/dkovalev) |
-[Resume](https://github.com/dmitriykovalev/resume/blob/master/README.md) |
 [Photography](https://500px.com/dmitriykovalev)
 
 Experience:
- * Programming languages: C, C++, Python
+ * Main programming languages: C, C++, Python
  * Camera systems: USB/PCIe camera modules, camera arrays, industrial (Ximea, IDS) & consumer cameras (Canon EOS)
  * Image sensors (OV5647, IMX216, IMX377): I2C control and MIPI data transfer
  * Machine Learning: TensorFlow Lite & Convolutional Neural Networks
@@ -18,8 +17,8 @@ Experience:
  * Video compression and video codecs (e.g. VP8, VP9, or H.264)
  * Image/video processing, RAW pipeline
  * Hardware manufacturing and testing
- * Web: HTML/CSS, JavaScript, WebSockets, React
- * Custom IDEs based on [Eclipse](http://www.eclipse.org/) or [IntelliJ IDEA](https://plugins.jetbrains.com/) platforms
+ * Web & Node.js: HTML/CSS, JavaScript, WebSockets, React
+ * Custom IDEs based on [Eclipse](http://www.eclipse.org/) or [IntelliJ IDEA](https://plugins.jetbrains.com/) platforms (Java)
 
 Interests:
  * Embedded systems
@@ -90,7 +89,7 @@ Developed applications on [Eclipse](https://www.eclipse.org/) platform. Worked w
 #### Q7
 [Q7](http://q7.xored.com/) is a functional and UI testing tool for Eclipse-based applications.
 
-#### ACE (Application Composition Environment)
+#### ACE (Application Composition Environment) :black_small_square:
 Eclipse-based IDE for building, testing, and debugging event-driven applications for Starview, Inc.
 
 #### Vozone
@@ -142,7 +141,7 @@ The XII International Symposium “Problems of redundancy in information and con
 * Kovalev, D., “Generalization of Huffman coding with the use of numeral systems”, 2006
 * Kovalev, D., “Video compression with fixed average compression ratio”, 2005
 
-## Education
+## Education :mortar_board:
 
 ### Online
 
