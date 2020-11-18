@@ -39,7 +39,7 @@ Open source contributions:
 
 ## Experience
 
-### Software/Firmware Engineer @ [Google](google.com)
+### Software/Firmware Engineer @ [Google](https://google.com)
 *November 2012 — Present | San Francisco, CA ☀*
 
 #### Coral
@@ -90,7 +90,7 @@ Developed applications on [Eclipse](https://www.eclipse.org/) platform. Worked w
 #### Q7
 [Q7](http://q7.xored.com/) is a functional and UI testing tool for Eclipse-based applications.
 
-#### ACE (Application Composition Environment) :black_small_square:
+#### ACE (Application Composition Environment)
 Eclipse-based IDE for building, testing, and debugging event-driven applications for Starview, Inc.
 
 #### Vozone
@@ -106,7 +106,7 @@ Teaching [Data Compression](http://nsu.videosoft.org/) course for master student
 
 Teaching [Data Compression](http://nsu.videosoft.org/) course for master students (in Russian).
 
-### Software Engineer @ [SWsoft (→ Parallels → Odin → CloudBlue)](http://www.odin.com/)
+### Software Engineer @ [SWsoft](http://www.odin.com/)(→ Parallels → Odin → CloudBlue)
 *July 2005 — October 2006 (1 year 4 months) | Novosibirsk, Russia ❄*
 
 ### Software Engineer @ [SWsoft NSU Lab](http://swsoft.nsu.ru/)
@@ -147,7 +147,8 @@ The XII International Symposium “Problems of redundancy in information and con
 ### Online
 
 * [Cryptography I](https://www.coursera.org/learn/crypto) @ Coursera, April 2012
-* [Circuits and Electronics 6.002x](https://6002x.mitx.mit.edu/) @ edX, May 2012, [certificate](https://verify.edxonline.org/cert/5cc11e4740d64312b650bdf5a124aa1b/)
+* [Circuits and Electronics 6.002x](https://courses.edx.org/courses/course-v1:MITx+6.002x_6x+1T2015/course/) @ edX, May 2012
+* [Computational Photography](https://sites.google.com/site/marclevoylectures/) @ Google, 2016
 
 ### [Novosibirsk State University](https://english.nsu.ru/)
 Master (2005 — 2007), Computer Science
