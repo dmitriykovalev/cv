@@ -1,6 +1,6 @@
 # Dmitriy Kovalev
 
-Software Engineer @ Google | San Francisco, CA
+Software/Firmware Engineer @ Google | San Francisco, CA ☀
 
 [GitHub](https://github.com/dmitriykovalev/) |
 [StackOverflow](http://stackoverflow.com/users/530414/) |
@@ -10,17 +10,18 @@ Software Engineer @ Google | San Francisco, CA
 
 Experience:
  * Programming languages: C, C++, Python
- * Camera systems: USB/PCIe camera modules, camera arrays, industrial & consumer cameras
- * Image sensors: I2C control and MIPI data transfer
+ * Camera systems: USB/PCIe camera modules, camera arrays, industrial (Ximea, IDS) & consumer cameras (Canon EOS)
+ * Image sensors (OV5647, IMX216, IMX377): I2C control and MIPI data transfer
  * Machine Learning: TensorFlow Lite & Convolutional Neural Networks
- * Embedded Systems: bootloaders, microcontrollers, bring-up, logic analyzers
+ * Embedded Systems: bootloaders, microcontrollers, logic analyzers, board bring-up
  * Linux Kernel: sound & video subsystems, I2C/GPIO/PWM/SPI drivers
  * Video compression and video codecs (e.g. VP8, VP9, or H.264)
+ * Image/video processing, RAW pipeline
  * Hardware manufacturing and testing
  * Web: HTML/CSS, JavaScript, WebSockets, React
  * Custom IDEs based on [Eclipse](http://www.eclipse.org/) or [IntelliJ IDEA](https://plugins.jetbrains.com/) platforms
 
-Interests: 
+Interests:
  * Embedded systems
  * Camera systems
  * Video processing/compression/streaming
@@ -29,6 +30,7 @@ Interests:
  * Photography
 
 Open source contributions:
+ * AIY Projects [commits](https://github.com/google/aiyprojects-raspbian/commits/aiyprojects?author=dmitriykovalev)
  * TensorFlow [commits](https://github.com/tensorflow/tensorflow/commits/master?author=dmitriykovalev)
  * FlatBuffers [commits](https://github.com/google/flatbuffers/commits/master?author=dmitriykovalev)
  * libvpx [commits](https://github.com/webmproject/libvpx/commits?author=dmitriykovalev)
@@ -41,7 +43,7 @@ Open source contributions:
 *November 2012 — Present | San Francisco, CA ☀*
 
 #### Coral
-Low-power TPU (Tensor Processing Unit) chips for embedded systems. I closely worked on:
+Low-power TPU (Tensor Processing Unit) chips for embedded systems. Closely worked on:
 
   * [Dev Board](https://coral.ai/products/dev-board) — SBC (Single Board Computer) with the TPU chip
   * [USB Accelerator](https://coral.ai/products/accelerator) — USB stick with the TPU chip
@@ -49,7 +51,7 @@ Low-power TPU (Tensor Processing Unit) chips for embedded systems. I closely wor
 Source code: https://github.com/google-coral.
 
 #### AIY
-Do-it-yourself Artificial Intelligence. I closely worked on:
+Do-it-yourself Artificial Intelligence. Closely worked on:
 
   * [Vision Kit](https://aiyprojects.withgoogle.com/vision) — AI accelerator for Raspberry Pi based on Movidius Myriad 2 chip.
   * [Voice Kit](https://aiyprojects.withgoogle.com/voice) — Sound card which enables Google Assistant functionality on Raspberry Pi.
@@ -72,7 +74,7 @@ Worked on several Virtual Reality projects:
 ### Software Engineer @ [Guidewire Inc](http://www.guidewire.com/)
 *October 2011 — November 2012 (1 year 2 months) | San Mateo, CA ☀*
 
-I worked on IntelliJ IDEA-based IDE for [Gosu](https://gosu-lang.github.io/) programming language.
+Worked on IntelliJ IDEA-based IDE for [Gosu](https://gosu-lang.github.io/) programming language.
 
 ### Software Engineer @ [Xored Software](http://xored.com/)
 *October 2006 — October 2011 (5 years 1 month) | Novosibirsk, Russia ❄*
