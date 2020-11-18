@@ -32,6 +32,7 @@ Open source contributions:
  * AIY Projects [commits](https://github.com/google/aiyprojects-raspbian/commits/aiyprojects?author=dmitriykovalev)
  * TensorFlow [commits](https://github.com/tensorflow/tensorflow/commits/master?author=dmitriykovalev)
  * FlatBuffers [commits](https://github.com/google/flatbuffers/commits/master?author=dmitriykovalev)
+ * gRPC [commits](https://github.com/grpc/grpc/commits/master?author=dmitriykovalev) & gRPC on Node.js [commits](https://github.com/grpc/grpc-node/commits/master?author=dmitriykovalev)
  * libvpx [commits](https://github.com/webmproject/libvpx/commits?author=dmitriykovalev)
  * WebVR Boilerplate [commits](https://github.com/borismus/webvr-boilerplate/commits?author=dmitriykovalev)
  * DLTK [commits](https://projects.eclipse.org/content/dmitriy-kovalev-committer-dynamic-languages-toolkit)
@@ -65,10 +66,10 @@ Worked on several Virtual Reality projects:
   * Multi-sensor camera systems (hardware/firmware/software).
   * [Google Cardboard](https://en.wikipedia.org/wiki/Google_Cardboard).
   * [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate).
-  * Chrome Rover. I designed and built remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The [demo](https://vimeo.com/99213039) was demonstrated at Google I/O 2014 at Cardboard booth.
+  * Chrome Rover. Designed and built remotely controlled robot which streams stereo video via [WebRTC](https://webrtc.org/) to the Google Chrome browser running on the phone inside Google Cardboard which also controls camera movements. The [demo](https://vimeo.com/99213039) was demonstrated at Google I/O 2014 at Cardboard booth.
 
 #### VP9
-[VP9](https://en.wikipedia.org/wiki/VP9) is an open source widely used video codec. List of my [commits](https://chromium-review.googlesource.com/#/q/owner:dkovalev%2540google.com+status:merged,n,z) and some [statistics](https://github.com/webmproject/libvpx/graphs/contributors) from GitHub mirror.
+[VP9](https://en.wikipedia.org/wiki/VP9) is an open source widely used video codec. List of my [commits](https://chromium-review.googlesource.com/#/q/owner:dkovalev%2540google.com+status:merged,n,z) and [statistics](https://github.com/webmproject/libvpx/graphs/contributors) from GitHub mirror.
 
 ### Software Engineer @ [Guidewire Inc](http://www.guidewire.com/)
 *October 2011 — November 2012 (1 year 2 months) | San Mateo, CA ☀*
