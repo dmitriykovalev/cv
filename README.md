@@ -30,7 +30,9 @@ Interests:
 
 Open source contributions:
  * AIY Projects [commits](https://github.com/google/aiyprojects-raspbian/commits/aiyprojects?author=dmitriykovalev)
+ * AIY Projects Tools [commits](https://github.com/google/aiyprojects-raspbian-tools/commits/main?author=dmitriykovalev)
  * TensorFlow [commits](https://github.com/tensorflow/tensorflow/commits/master?author=dmitriykovalev)
+ * TensorFlow Lite Support [commits](https://github.com/tensorflow/tflite-support/commits/master?author=dmitriykovalev)
  * FlatBuffers [commits](https://github.com/google/flatbuffers/commits/master?author=dmitriykovalev)
  * gRPC [commits](https://github.com/grpc/grpc/commits/master?author=dmitriykovalev) & gRPC on Node.js [commits](https://github.com/grpc/grpc-node/commits/master?author=dmitriykovalev)
  * libvpx [commits](https://github.com/webmproject/libvpx/commits?author=dmitriykovalev)
